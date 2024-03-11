@@ -1,0 +1,60 @@
+{
+  "subjects": [
+    {
+      "year": "II",
+      "semester": "I",
+      "course": "Operating System",
+      "question_bank": "Click here",
+      "manuals": "Click here"
+    },
+    {
+      "year": "II",
+      "semester": "I",
+      "course": "Java Programming",
+      "question_bank": "Click here",
+      "manuals": "Click here"
+    },
+    {
+      "year": "II",
+      "semester": "I",
+      "course": "Object Oriented Software Engineering",
+      "question_bank": "Click here",
+      "manuals": "Click here"
+    },
+    {
+      "year": "II",
+      "semester": "I",
+      "course": "Discrete Mathematics",
+      "question_bank": "Click here",
+      "manuals": "Click here"
+    },
+    {
+      "year": "II",
+      "semester": "I",
+      "course": "Computer Networks",
+      "question_bank": "Click here",
+      "manuals": "Click here"
+    },
+    {
+      "year": "II",
+      "semester": "I",
+      "course": "Financial Accounting and Management",
+      "question_bank": "Click here",
+      "manuals": "Click here"
+    },
+    {
+      "year": "II",
+      "semester": "I",
+      "course": "Design And Analysis Of Algorithms",
+      "question_bank": "Click here",
+      "manuals": "Click here"
+    },
+    {
+      "year": "II",
+      "semester": "I",
+      "course": "Database Management System",
+      "question_bank": "Click here",
+      "manuals": "Click here"
+    }
+  ]
+}
